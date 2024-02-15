@@ -10,6 +10,6 @@ chapitre: "table de métier"
 
 - table de métier
 - Introduction
-- Page 1
-- Page 2
+- Tourisme
+- Climate
 - Conclusion
