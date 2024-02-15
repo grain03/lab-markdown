@@ -11,8 +11,5 @@ chapitre: "table de métier"
 
 <!-- note  -->
 
-- table de métier
-- Introduction
-- Tourisme
-- Climate
-- Conclusion
+- [Chefchaoune](#chefchaoune)
+  - [Table de métier](#table-de-métier)
