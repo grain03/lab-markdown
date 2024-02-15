@@ -2,5 +2,6 @@
 
 ## Références 
 
-- [Documentation](https://labs-web.github.io/lab-rapport/) 
+- [Rapport](https://labs-web.github.io/lab-rapport/) 
+- [Presentation](https://labs-web.github.io/lab-rapport/) 
 
