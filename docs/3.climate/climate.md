@@ -4,11 +4,14 @@ order: 4
 chapitre: "climate"
 ---
 
+<!-- new slide -->
+
 # Climate
 
 ![Climate](./images/Climat-Meteo-Chefchaouen.jpg)
 *Figure: Climate*
 
+<!-- note -->
 Le climat de Chefchaouen est de type méditerranéen, caractérisé par des étés chauds et secs ainsi que des hivers doux et humides. Voici un aperçu des conditions climatiques typiques à Chefchaouen :
 
 - **Été (juin à août) :** Les étés à Chefchaouen sont chauds et ensoleillés, avec des températures diurnes moyennes atteignant souvent les 30°C. Les nuits peuvent être plus fraîches, mais restent généralement douces. Les précipitations sont rares pendant cette période, et les journées ensoleillées sont idéales pour explorer la ville et ses environs.

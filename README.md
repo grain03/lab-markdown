@@ -2,6 +2,6 @@
 
 ## Références 
 
-- [Rapport](https://labs-web.github.io/lab-rapport/) 
-- [Presentation](https://labs-web.github.io/lab-rapport/) 
+- [Rapport](https://grain03.github.io/lab-markdown/) 
+- [Presentation](https://grain03.github.io/lab-markdown/Presentation.html) 
 
