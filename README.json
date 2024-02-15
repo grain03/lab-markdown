@@ -1,0 +1,52 @@
+{
+    "Introduction":{
+        "Titre" :"",
+        "Reference":"",
+        "Description" : ""
+    },
+    "Backlog":{
+        "Titre" : "Backlog",
+        "Introduction":"Le backlog est une liste ordonées des tâches"
+    },
+    "Livrables" :
+    {
+        "Titre" : "Livrables",
+        "Introduction":"",
+        "Livrables": [
+            {
+                "Titre":"/Backlog",
+                "Description":"Backlog"
+            },
+            {
+                "Titre":"/docs",
+                "Description":"Documentation"
+            }
+        ]
+    },   
+    "References" :
+    {
+        "Titre" : "Références",
+        "Introduction":"",
+        "References": [
+            {
+                "Titre":"Documentation",
+                "Lien":"https://labs-web.github.io/lab-rapport/"
+            },
+            {
+                
+                "Titre":"Presentation Exposé Jekyll",
+                "Lien":"https://labs-web.github.io/lab-rapport/3.exposé-jekyll/presentation.html"
+
+            },
+            {
+                
+                "Titre":"Rapport Exposé Jekyll",
+                "Lien":"https://labs-web.github.io//lab-rapport/3.exposé-jekyll/rapport.html"
+
+            }
+           
+        ]
+    } 
+    
+}
+
